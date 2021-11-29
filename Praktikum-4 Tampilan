@@ -1,0 +1,18 @@
+# Nama        : Ari
+# NIM         : 1234
+# Nilai Tugas : 70
+# Nilai UTS   :65
+# Nilai UAS   :80
+Tambah data (y/t)?y
+# Nama        : Bambang
+# NIM         : 2345
+# Nilai Tugas : 65
+# Nilai UTS   :80
+# Nilai UAS   :90
+Tambah data (y/t)?t
+==========================================================
+| Nomer | Nama    | NIM  | Tugas |  UTS  |  UAS  | Akhir |
+==========================================================
+|   1   | Ari     | 1234 |  70   |  65   |  80   | 71.75 |
+|   2   | Bambang | 2345 |  65   |  80   |  90   | 79.00 |
+==========================================================
